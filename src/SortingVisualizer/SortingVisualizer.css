@@ -1,0 +1,20 @@
+.all-elements{
+  margin-top: 15px;
+}
+
+.each-element{
+  width: 2px;
+    background-color: pink;
+    display: inline-block;
+    margin: 0 1px;
+}
+
+.sort-buttons{
+margin: 5px 6px
+}
+
+.new-array{
+  display: block;
+margin: auto;
+margin-top: 10px;
+}
